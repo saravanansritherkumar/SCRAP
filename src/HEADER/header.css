@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.header
+{
+    background-color: rgb(76, 210, 76);
+    padding: 4px;
+}
+.header ul, .header-titles li,ul,.social-icons li
+{
+    display: inline;
+    font-weight: 400;
+}
+.header .header-titles li
+{
+    margin-left: 10px;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    border-right: solid 1px black;
+}
+.header .header-titles li span i
+{
+    margin-right: 10px;
+}
+
+.header .social-icons 
+{
+    margin-left: 960px;
+}
+.header .social-icons li
+{
+    margin-right: 10px;
+    font-size: large;
+}
+@media screen and (max-width:900px) 
+{
+
+}

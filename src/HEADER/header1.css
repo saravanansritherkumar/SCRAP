@@ -1,0 +1,41 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: rgb(76, 210, 76);
+    padding: 5px;
+}
+
+.header .header-titles li span {
+    margin-right: 5px;
+}
+
+.header .header-titles, li {
+    display: inline;
+}
+
+.header .header-titles {
+    margin-left: 10px;
+}
+
+.header .header-titles li {
+    margin-left: 15px;
+    padding-right: 7px;
+    border-right: solid 2px green;
+}
+
+/* SOCIAL-ICONS */
+.header .social-icons, li {
+    display: inline;
+}
+
+.header .social-icons {
+    margin-left: 900px;
+}
+
+.header .social-icons li {
+    margin-left: 15px;
+}
+
